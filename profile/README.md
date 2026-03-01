@@ -1,4 +1,6 @@
-<h1 align="center">UnrealPilot</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UnrealPilot/.github/main/assets/banner.png" alt="UnrealPilot" width="100%">
+</p>
 
 <h3 align="center">Unreal Editor on Autopilot</h3>
 
